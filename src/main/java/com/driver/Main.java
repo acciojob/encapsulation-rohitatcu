@@ -3,6 +3,6 @@ package com.driver;
 public class Main {
    public static void main(String[]args){
     RWOnly obj = new RWOnly();
-    int var = obj.getName();
+    String var = obj.getName();
    }
 }
